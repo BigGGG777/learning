@@ -1,3 +1,3 @@
-#Demo
+# Demo
 
-Doc for learning.
+Doc for learning!
